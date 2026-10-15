@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  <Server>FS-D2\SQLEXPRESS</Server>
+  <DBName>SATE</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>sa123</DBPassword>
+  <DBAuthentication>Windows</DBAuthentication>
+  <PublisherServer>Rjs+qWKnL5E=</PublisherServer>
+  <PublisherIP>gPvbVvxH8N/6pj80HActig==</PublisherIP>
+  <PublisherLogin>tSK0OOOmYsI=</PublisherLogin>
+  <PublisherPwd>P52e36RYrgM=</PublisherPwd>
+  <PublishedDB>0A/3Yp0Dmca9d/G2URXrNgYucNntoEl3</PublishedDB>
+  <SubscriberName>Rjs+qWKnL5E=</SubscriberName>
+  <SubscribedDB>AafS6buU3xIE2Pd0LvUkIw==</SubscribedDB>
+  <SubscriberLogin>R6Tk2iDj9Qw=</SubscriberLogin>
+  <SubscriberPwd>R6Tk2iDj9Qw=</SubscriberPwd>
+  <DownloadViaFTP>true</DownloadViaFTP>
+  <QueryTimeOut>0</QueryTimeOut>
+  <TimeInterval>120</TimeInterval>
+  <MailingserverAddress>mail.yevolve.com</MailingserverAddress>
+  <MailSenderAddress>slashautoemail@yevolve.com</MailSenderAddress>
+  <PrintType>1</PrintType>
+  <PrintOnOrderForm>2</PrintOnOrderForm>
+  <SKUonHandShowValue>1</SKUonHandShowValue>
+  <ServerFTPpath>C:\FGFiles\</ServerFTPpath>
+  <SyncLog_Process_Path>c:\LogFolder\</SyncLog_Process_Path>
+  <ThreadTime>1500</ThreadTime>
+  <UploadLog>9987</UploadLog>
+  <Language>English</Language>
+  <Pack>Default</Pack>
+  <V1>1.00.0000</V1>
+  <V2>1.00.0000</V2>
+  <ServerSettingURL>www.yevolve.com/SLASHFG/slash/settings/index.txt</ServerSettingURL>
+  <DesktopInbox>C:\Program Files\yEvolve\SLASHMobile\Data\Inbox</DesktopInbox>
+  <DesktopOutbox>C:\Program Files\yEvolve\SLASHMobile\Data\Outbox</DesktopOutbox>
+  <DeviceInbox>\data\inbox</DeviceInbox>
+  <DeviceOutbox>\data\outbox</DeviceOutbox>
+  <HHAppFilesFolder>C:\Program Files\yEvolve\SLASHMobile\HHAppFilesFolder</HHAppFilesFolder>
+  <BackupFolder>c:\Backup\</BackupFolder>
+</AppSettings>
